@@ -99,7 +99,7 @@ $(document).ready(function() {
 
 function processFinalScore(score, questions){
 	if (score >= questions.length-max_lives){
-		alert("you answered"+score+" out of "+questions.length+"\nOMG!! You win.");
+		alert("you answered "+score+" out of "+questions.length+"\nOMG!! You win.");
 	} else {
 		alert("you answered"+score+" out of "+questions.length+"\nThanks for trying, but no gift for you");
 	}
