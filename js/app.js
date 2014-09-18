@@ -21,7 +21,6 @@ $(document).ready(function() {
 	var lives = max_lives;
 	var finishGame = false;
 
-
 	//==================
 	// insert length(questions)right/wrong bubles
 	//==================
